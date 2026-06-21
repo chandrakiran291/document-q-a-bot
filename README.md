@@ -6,6 +6,9 @@ PDF and DOCX documents, with inline source citations and zero hallucinated facts
 Built as part of an AI Engineering internship project on Retrieval-Augmented Generation.
 
 ---
+## live
+https://document-q-a-bot-b4xqrjve5cflguuxzeddcb.streamlit.app/
+
 
 ## How It Works
 
