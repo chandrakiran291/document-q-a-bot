@@ -11,7 +11,7 @@ __pycache__/
 .pytest_cache/
 
 # Vector database (regenerate via ingest.py; don't commit large binary DB files)
-db/
+
 
 # OS / editor noise
 .DS_Store
