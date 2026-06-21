@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+
+.env.example
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Vector database (regenerate via ingest.py; don't commit large binary DB files)
+db/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
